@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FlapButton
+  - Red
+  - Green
+  - Yellow
+  - Pink
+  - Border
+  - Base
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 2587592443
+    locked: 0
+  - name: 
+    uniqueID: 3114177737
+    locked: 0
+  - name: 
+    uniqueID: 2855606291
+    locked: 0
+  - name: 
+    uniqueID: 636637677
+    locked: 0
+  - name: 
+    uniqueID: 1515141009
+    locked: 0
+  - name: 
+    uniqueID: 362280485
+    locked: 0
+  - name: 
+    uniqueID: 1241035505
+    locked: 0
+  - name: 
+    uniqueID: 3522427295
+    locked: 0
